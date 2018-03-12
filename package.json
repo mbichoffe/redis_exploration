@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js"
-    //make sure we are using the latest version of es 
   },
   "author": "Marina Bichoffe",
   "license": "ISC",
